@@ -1,0 +1,34 @@
+Recepies
+
+Pancakes:
+ - Flour - 200.0 g
+ - Milk - 250.0 ml
+ - Egg - 2.0 pcs
+ - Sugar - 1.0 tbsp
+Category: Breakfast
+Difficulty: 2
+
+Scrambled Eggs:
+ - Egg - 3.0 pcs
+ - Butter - 10.0 g
+ - Salt - 1.0 tsp
+Category: Breakfast
+Difficulty: 1
+
+Simple Salad:
+ - Tomato - 2.0 pcs
+ - Cucumber - 1.0 pcs
+ - Olive oil - 1.0 tbsp
+ - Salt - 1.0 tsp
+Category: Lunch
+Difficulty: 1
+
+Chocolate Cake:
+ - Flour - 300.0 g
+ - Cocoa powder - 50.0 g
+ - Egg - 3.0 pcs
+ - Sugar - 150.0 g
+ - Butter - 100.0 g
+Category: Dessert
+Difficulty: 4
+

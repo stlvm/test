@@ -1,0 +1,22 @@
+Pancakes
+Flour;200;g
+Milk;250;ml
+Egg;2;pcs
+Sugar;1;tbsp
+Category: BREAKFAST
+Difficulty: 2
+
+Scrambled Eggs
+Egg;3;pcs
+Butter;10;g
+Salt;1;tsp
+Category: BREAKFAST
+Difficulty: 1
+
+Simple Salad
+Tomato;2;pcs
+Cucumber;1;pcs
+Olive oil;1;tbsp
+Salt;1;tsp
+Category: LUNCH
+Difficulty: 1
