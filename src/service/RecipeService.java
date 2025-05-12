@@ -86,7 +86,7 @@ public class RecipeService {
             }
             return recipes;
         }catch (IOException e) {
-            System.out.println("jfjfjkkf");
+            System.out.println("An error occurred: " + e.getMessage());
             return null;
         }
 
